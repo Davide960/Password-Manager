@@ -1,5 +1,5 @@
 # Password-Manager
-Questo repository contiene il codice sorgente del progetto Password Manager.
+Questo repository contiene il codice sorgente e non del progetto Password Manager.
 
 Per scaricare le varie verioni del programma andare nella sezione Releases del repository.
 
